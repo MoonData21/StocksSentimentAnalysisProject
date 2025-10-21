@@ -21,11 +21,13 @@ Interactive chart showing normalized stock price vs sentiment trends.
 
 Compute correlation coefficient between daily sentiment and price returns.
 
-Tech Stack
-Category	Libraries / Tools
-Data Retrieval	yfinance, newsapi-python
-Data Processing	pandas, numpy
-Financial Indicators	ta (RSIIndicator)
-Sentiment Model	transformers (FinBERT)
-Visualization	matplotlib
-Environment	Google Colab
+Tech Stack:
+
+| Category | Libraries / Tools |
+|-----------|------------------|
+| Data Retrieval | yfinance, newsapi-python |
+| Data Processing | pandas, numpy |
+| Financial Indicators | ta (RSIIndicator) |
+| Sentiment Model | transformers (FinBERT) |
+| Visualization | matplotlib |
+| Environment | Google Colab |
